@@ -1,1 +1,0 @@
-eseguire di pulse secure
