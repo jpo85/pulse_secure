@@ -1,1 +1,2 @@
-# eseguibile pulse_secure 
+# pulse_secure
+    eseguibile exe del pacchetto vpn client pulse secure
